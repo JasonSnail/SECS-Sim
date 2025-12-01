@@ -1,0 +1,5 @@
+{
+  "name": "SECS-Sim Host",
+  "description": "A SEMI Standard E9 & E142 Host Simulator for testing semiconductor equipment SECS interfaces. Features scenario management, SML logging, and AI-powered reporting.",
+  "requestFramePermissions": []
+}
